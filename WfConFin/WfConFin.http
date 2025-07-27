@@ -1,0 +1,6 @@
+@WfConFin_HostAddress = http://localhost:5055
+
+GET {{WfConFin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
