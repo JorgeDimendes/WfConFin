@@ -1,4 +1,4 @@
-# 🎌 WfConFin - API em C#
+# 📊 WfConFin - API em C#
 
 API RESTful desenvolvida com ASP.NET Core para gerenciamento de clientes, com controle de acesso por níveis e recursos completos de CRUD.
 
